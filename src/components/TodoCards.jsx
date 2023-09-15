@@ -52,7 +52,7 @@ export default function App() {
 
   return (
     <section className="vh-100" style={{ backgroundColor: "#e2d5de" }}>
-      <MDBContainer className="py-5 h-100">
+      <MDBContainer className="py-6 h-100">
         <MDBRow className="d-flex justify-content-center align-items-center">
           <MDBCol xl="10">
             <MDBCard style={{ borderRadius: "15px" }}>
